@@ -1,7 +1,8 @@
 body {
-color: rgb(4, 43, 43);
+color: darkslategrey
 font-family: sans-serif;
-background-color: rgb(132, 187, 187);
+background-color: lightslategray;
+font-size: 2em;
 }
 
 
